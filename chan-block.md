@@ -34,7 +34,7 @@ func main() {
 
 或者使用 `context`
 
-~~~
+~~~golang
 package main
 
 import (
